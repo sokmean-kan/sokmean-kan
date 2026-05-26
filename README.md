@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Sokmean
 
-<!--
-**sokmean-kan/sokmean-kan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer (Kotlin / Spring Boot)  
+🎓 Student at RUPP (Phnom Penh, Cambodia)  
+🚀 Passionate about APIs and backend systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Spring Boot / Kotlin
+- Laravel 
+- PostgreSQL / MySQL
+- Docker
+- Git / GitHub
+
+---
+
+## 📌 Currently Learning
+- System Design
+- Microservices
+- AWS basics
+
+---
+
+## 📫 Contact
+- Email: your-email@gmail.com
+- LinkedIn: https://linkedin.com/in/your-profile
