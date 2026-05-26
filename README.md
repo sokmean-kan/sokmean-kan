@@ -18,10 +18,10 @@
 ## 📌 Currently Learning
 - System Design
 - Microservices
-- AWS basics
+- Back-End Technical
 
 ---
 
 ## 📫 Contact
-- Email: your-email@gmail.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: sokmean@soramitsukhmer.com
+- Tel: 0979638575
