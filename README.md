@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sokmean
+# 👋 Hello, I'm Sokmean
 
 💻 Backend Developer (Kotlin / Spring Boot)  
 🎓 Student at RUPP (Phnom Penh, Cambodia)  
